@@ -1,0 +1,44 @@
+﻿[[Parka]]
+Despiertas, pero no es agradable. Sientes tu cuerpo entumecido, como si hubieras estado inmóvil, pero rígido, durante mucho tiempo. Al principio, no puedes acostumbrar tus ojos a la inmensa cantida de luz de este lugar, solo ves algunas formas regulares borrosas.
+
+[[SCRIO]]
+^{<i>Te sientes mareado. Y sientes los labios pegajosos, la boca pastosa, y una sensación en los párpados que no habías sentido nunca, pero que te hace pensar en algo similar a como si no hubieras dormido en un mes. Los párpados se te pegan a la piel de la cara en una desagradable sensación, y notas enormes legañas bajo los ojos. Cuando te has sacudido la cabeza, y limpiado la cara con los dedos como buenamente has podido, por fin miras a tu alrededor.</i>}</p><p>Cientos de cápsulas aparecen incorporadas en múltiples patrones regulares a esta enorme sala. ${Un indicativo, ex indicativo_scrio}, pintado en la pared parece indicar algo. ${Una puerta, norte}, delante de ti, es la única salida aparente.
+
+@pic = "res/scrio-tr10.jpg"
+
+[indicativo_scrio]
+^{<i>Lees el cartel, lo que parece extraer recuerdos de tu memoria en forma de ráfagas, que creías olvidados. Sabes que te encuentras en las salas de criogenia anteriores de la nave, cerca de la sala de control.</i> }El cartel indica brevemente: "SCRIO-Tr10", es decir, criogenia para la décima generación de tripulantes de la nave.
+
+[[SCRIOREC]]
+^{<i>A tu alrededor hay docenas de comodidades listas para ser utilizadas por aquellos que, como tú, se despiertan del sueño criogénico. Te encuentras todavía torpe, y, aunque sabes para qué sirve cada botón, te cuesta razonar cómo usarlos y en qué orden, como si tu cabeza solo pudiera evocar unos recuerdos y otros no.</i>}</p><p>Destacan ${un indicativo, ex indicativo_scriorec}, ${una ducha, ex ducha}, ${un armario, ex armario}, ${varias camillas, ex camillas} y cientos de paneles y botones. ${Una puerta, sur} permitiría volver a la sala de criogenia, mientras que ${otra, norte} más grande de doble hoja se sitúa justo enfrente.
+
+@pic = "res/scriorec.jpg"
+
+[indicativo_scriorec]
+Solo indica SCRIOREC, sala de recuperación de criogenia.
+
+[ducha]
+Aunque sea como de forma instintiva, sabes que te vendrá bien. La cápsula se cierra y notas el agua fría cayendo por tu cuerpo, lo que despierta tu cuerpo y mente a variadas sensaciones, despertándolo por fin y volviéndote a sentir completo.
+
+[armario]
+Coges uno de los monos que sirven de uniforme a la tripulación, y te lo pones.
+
+[camillas]
+A veces la salida de la criogenia produce espasmos musculares, de forma que no queda otro remedio que tumbarse a esperar que se pasen.
+
+[[SCONT]]
+^{<i>La sala de control es muy grande. Cuando la nave está a nivel operacional completo, da cabida a varias docenas de ingenieros, navegantes, pilotos, y otros tripulantes que ofrecen sus distintas habilidades para que la Parka navegue.</i>}</p><p>Múltiples ${puestos de control, ex puestos} permiten el acceso a distintas funcionalidades de la nave. Un ${indicativo, ex indicativo_scont} se sitúa al lado de una de las puertas., junto a una ${placa, ex placa}. Una ${pantalla, ex pantalla} permite observar el resultado de los distintos comandos que se le pueden dar a la nave.
+
+@pic = "res/scont.jpg"
+
+[indicativo_scont]
+Solo se puede leer SCONT... tiene sentido, claro.
+
+[puestos]
+Todos ellos están formados por un asiento y varias pantallas y controles, además de un teclado.
+
+[pantalla]
+Ocupa el total de una de las paredes de esta sala. Es enorme.
+
+[placa]
+Parece de oro. Se puede leer UN-Parka, y también hay un dibujo desde un punto de vista cenital de esta nave.
