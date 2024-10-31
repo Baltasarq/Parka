@@ -340,8 +340,8 @@ const LOC_SCRIO = ctrl.locs.crea(
 // ------------------------------------------------------- Player ---
 const PLAYER = ctrl.personas.creaPersona(
     "Jugador",
-    ["jugador", "jugadora" ],
-    "El bravo PC.",
+    ["jugador", "jugadora", "tripulante", "tr10-1001" ],
+    "Tripulante TR10-1001.",
     LOC_SCONT
 );
 
