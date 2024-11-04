@@ -85,7 +85,7 @@ const LOC_SCONT = ctrl.locs.crea(
                                  Lentamente, las compuertas se abren, \
                                  hasta hacerlo totalmente, tras tantos, y tantos \
                                  años. Todos los mecanismos son operativos, \
-                                 afortundamente. La sonda se aleja. \
+                                 afortunadamente. La sonda se aleja. \
                                  Todos miráis la pantalla con emoción contenida, \
                                  esbozando una media sonrisa.";
                     }
