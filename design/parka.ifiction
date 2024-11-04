@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ifindex xmlns="http://babel.ifarchive.org/protocol/iFiction/" version="1.0">
+    <story>
+        <identification>
+            <ifid>e9cdeb8d-2f27-4c95-a453-f04cb66ae4df</ifid>
+            <format>html</format>
+        </identification>
+        <bibliographic>
+            <title>Parka</title>
+            <author>Baltasar</author>
+            <language>ES</language>
+            <headline>Un amargo despectar interactivo.</headline>
+            <genre>fiction</genre>
+            <forgiveness>merciful</forgiveness>
+            <description>Una nave tipo arca generacional transporta miles de humanos en sueño criogénico, buscando un mundo viable. La UN-Parka viaja por el espacio cuando un tripulante guardián de décima generación toma el control... ¿Y si ya se ha alcanzado el objetivo?</description>
+        </bibliographic>
+        <contacts>
+            <authoremail>baltasarq@gmail.com</authoremail>
+            <url>http://baltasarq.info/</url>
+        </contacts>
+        <release>
+            <version>1</version>
+            <releasedate>2024/11/01</releasedate>
+        </release>
+        <colophon>
+            <generator>Babble</generator>
+            <originated>2024/11/01</originated>
+        </colophon>
+    </story>
+</ifindex>
